@@ -16,7 +16,7 @@ disqusShortname = ""
   tag = "tags"
 
 [author]
-	name = "jlumbroso"
+	name = "brnn-rocks"
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
