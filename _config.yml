@@ -14,17 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: BRØNN
+email: balls.lizard@outlook.com
+description: "Doom-infused post-metal"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brnn.rocks"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+  name: BRØNN
 logo: /assets/icons/basically-basic-logo-light.svg
 search: true
 search_full_content: true
