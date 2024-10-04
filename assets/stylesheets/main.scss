@@ -8,7 +8,9 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 @import "basically-basic";
 
-$large: 100vw;
+.inner {
+    max-width: 100vw;
+}
 
 .site-logo {
     width: 150px;
