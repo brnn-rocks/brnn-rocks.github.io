@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @charset "utf-8";
@@ -13,9 +12,13 @@
 }
 
 .site-logo {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     margin-right: 0.5rem;
     border-radius: 50%;
     filter: invert(8%) sepia(7%) saturate(1897%) hue-rotate(177deg) brightness(97%) contrast(92%);
+}
+
+.btn {
+    background-color: #4a694a;
 }
