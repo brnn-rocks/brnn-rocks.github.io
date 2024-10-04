@@ -7,6 +7,18 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 @import "basically-basic";
 
+body {
+    background: #dedede;
+}
+
+.wrapper {
+    background-color: #dedede;
+}
+
+.sidebar-toggle-wrapper {
+    background-color: #dedede;
+}
+
 .inner {
     max-width: 100vw !important;
 }
@@ -14,8 +26,6 @@
 .site-logo {
     width: 200px;
     height: 200px;
-    margin-right: 0.5rem;
-    border-radius: 50%;
     filter: invert(8%) sepia(7%) saturate(1897%) hue-rotate(177deg) brightness(97%) contrast(92%);
 }
 
