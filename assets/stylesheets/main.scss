@@ -1,7 +1,0 @@
-@charset "utf-8";
-
-// Theme skin
-@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-@import "basically-basic";
-
-$large: 100vw !default;

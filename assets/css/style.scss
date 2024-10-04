@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$large: 100vw !default;
+
+.site-logo {
+    width: 150px;
+    height: 150px;
+    margin-right: 0.5rem;
+    border-radius: 50%;
+    filter: invert(100%) sepia(4%) saturate(1112%) hue-rotate(225deg) brightness(115%) contrast(84%);
+}
