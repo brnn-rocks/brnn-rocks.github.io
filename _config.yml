@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brnn.rocks"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: BRØNN
-logo: /assets/icons/logo.svg
+logo: /assets/icons/symbol_logo.svg
 # search: true
 # search_full_content: true
 # search_provider: algolia
